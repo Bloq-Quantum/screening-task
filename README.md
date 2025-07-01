@@ -4,9 +4,9 @@
 
 Follow the [steps to start a standard Next.js app](https://nextjs.org/docs/app/getting-started/installation#run-the-development-server) to get started.
 **The task is described on the home page of the app. To see the task you have to start the Nextjs app (code in the repo) on local host and open it on the browser.**
-
+### **Do not fork this repo (if you did, make it private)**
 **How to submit:**
-1. Download the code as a zip file and upload it to a private repo. Do not fork this repo (if you did make it private)
+1. Make a private repository using this as a template.
 2. Complete the task to the best of your ability.
 3. Provide read access to jay@bloq.in so we can review your code.
 4. Deploy it on Vercel or any deployment platform and submit the link in the form (.
